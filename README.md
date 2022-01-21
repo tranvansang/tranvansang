@@ -18,7 +18,7 @@ Nearly zero-dependence, modern OAuth implementation. The only two dependencies a
 
 In spite of the name `express-authenticators`, the project does not depend on expressjs, it can be used in any framework.
 
-Currently, support authenticating and profile fetching for Facebook, Foursquare, Github, Google, Line, Instagram, LinkedIn, Pinterest, Tumblr, Twitter, Zalo.
+Currently, support authenticating and profile fetching for Facebook, Foursquare, Github, Google, Line, Instagram, LinkedIn, Pinterest, Tumblr, Twitter, Zalo. You can extend the base class to support any OAuth provider.
 
 - https://github.com/tranvansang/s3-key
 
@@ -80,5 +80,5 @@ A Vim plugin. Type `Ctrl-l` in insert mode to automatically fill the pending ope
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [fb.me/sangk41](https://fb.me/sangk41) or [me@transa.ng](mailto:me@transa.ng) or https://transang.me
-- 😄 Pronouns: /tʃ/. Chinese: 陳文創. Vietnamese: Trần Văn Sáng. 
+- 😄 Pronouns: /tʃæn væn **saŋ**/. Chinese: 陳文**創**. Vietnamese: Trần Văn **Sáng**. 
 <!-- - ⚡ Fun fact: -->
