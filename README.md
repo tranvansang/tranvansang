@@ -74,11 +74,13 @@ A Vim plugin. Type `Ctrl-l` in insert mode to automatically fill the pending ope
 
 ### About me
 
+My name: Tran Van Sang (/tʃæn væn **saŋ**/). Chinese: 陳文**創**. Vietnamese: Trần Văn **Sáng**
+
 - 🔭 I'm currently working on this stack: **Figma/Sketch/Adobe, Webpack, Babel/SWC, ReactJS, Flutter, Tailwindcss, Storybook, Jest, ExpressJS, node, Redis, PostgreSQL (knexjs), RabbitMQ, Kubernetes (AWS EKS, Vultr), Helm, Docker, Ansible, Terraform**.
 - 🌱 I’m currently learning Flutter/Dart, Rust, Elastic stack, SWC plugin development (waiting for SWC to release plugin support, though).
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [fb.me/sangk41](https://fb.me/sangk41) or [me@transa.ng](mailto:me@transa.ng) or https://transang.me
-- 😄 Pronouns: /tʃæn væn **saŋ**/. Chinese: 陳文**創**. Vietnamese: Trần Văn **Sáng**. 
+<!-- - 😄 Pronouns: -->
 <!-- - ⚡ Fun fact: -->
