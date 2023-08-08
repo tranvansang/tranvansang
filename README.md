@@ -1,6 +1,6 @@
 https://transang.me
 
-## Published NPM packages:
+## NPM packages:
 
 - https://github.com/tranvansang/jchain
 - https://github.com/tranvansang/rrjx
@@ -27,4 +27,13 @@ https://transang.me
 - https://github.com/tranvansang/pantone-colors
 - https://github.com/tranvansang/schar
 - https://github.com/tranvansang/jtruthy
+- https://github.com/tranvansang/dx-server (to be released)
 - https://github.com/tranvansang/express-transformer (recently not maintained)
+
+## Flutter libraries
+- https://github.com/tranvansang/flutter_facebook_auth
+- https://github.com/tranvansang/flutter_google_auth
+
+## Others
+- https://github.com/tranvansang/vim-close-pair
+- https://github.com/tranvansang/ssl-cpp
