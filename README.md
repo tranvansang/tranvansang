@@ -28,7 +28,7 @@ https://transang.me
 - https://github.com/tranvansang/schar
 - https://github.com/tranvansang/jtruthy
 - https://github.com/tranvansang/dx-server (to be released)
-- https://github.com/tranvansang/express-transformer (recently not maintained)
+- https://github.com/tranvansang/express-transformer
 
 ## Flutter libraries
 - https://github.com/tranvansang/flutter_facebook_auth
