@@ -27,7 +27,7 @@ https://transang.me
 - https://github.com/tranvansang/pantone-colors
 - https://github.com/tranvansang/schar
 - https://github.com/tranvansang/jtruthy
-- https://github.com/tranvansang/dx-server (to be released)
+- https://github.com/tranvansang/dx-server
 - https://github.com/tranvansang/express-transformer
 
 ## Flutter libraries
