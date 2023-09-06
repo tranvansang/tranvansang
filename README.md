@@ -19,7 +19,7 @@ https://transang.me
 - https://github.com/tranvansang/tw-elevation
 - https://github.com/tranvansang/pantone-colors
 - https://github.com/tranvansang/jp-postal
-- https://github.com/tranvansang/jzdate
+- https://github.com/tranvansang/djz
 - https://github.com/tranvansang/middleware-async
 - https://github.com/tranvansang/img-size-loader
 - https://github.com/tranvansang/s3-ghost
