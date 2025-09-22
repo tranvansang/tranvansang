@@ -9,7 +9,6 @@ https://transang.me
 - https://github.com/tranvansang/add-evt-listener
 - https://github.com/tranvansang/rrjx
 - https://github.com/tranvansang/mkenum
-- https://github.com/tranvansang/clean-fetch
 - https://github.com/tranvansang/tidy-form
 - https://github.com/tranvansang/jdefer
 - https://github.com/tranvansang/jmisc
@@ -33,6 +32,7 @@ https://transang.me
 - https://github.com/tranvansang/flip-promise
 - https://github.com/tranvansang/jpubsub
 - https://github.com/tranvansang/enum-for
+- https://github.com/tranvansang/clean-fetch
 
 ## Flutter libraries
 - https://github.com/tranvansang/flutter_facebook_auth
