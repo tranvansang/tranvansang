@@ -3,6 +3,7 @@ https://transang.me
 ## NPM packages:
 
 - https://github.com/tranvansang/dx-server
+- https://github.com/tranvansang/react-dom-dialog
 - https://github.com/tranvansang/express-authenticators
 - https://github.com/tranvansang/jchain
 - https://github.com/tranvansang/jcls
