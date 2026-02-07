@@ -11,12 +11,9 @@ Blog: https://transang.me
 - https://npmjs.com/package/jchain
 - https://npmjs.com/package/jcls
 - https://npmjs.com/package/add-evt-listener
-- https://npmjs.com/package/rrjx
 - https://npmjs.com/package/mkenum
-- https://npmjs.com/package/tidy-form
-- https://npmjs.com/package/jmisc
 - https://npmjs.com/package/misc-hooks
-- https://npmjs.com/package/revised
+- https://www.npmjs.com/package/@react-loadable/revised
 - https://npmjs.com/package/tw-elevation
 - https://npmjs.com/package/pantone-colors
 - https://npmjs.com/package/jp-postal
@@ -24,8 +21,11 @@ Blog: https://transang.me
 - https://npmjs.com/package/middleware-async
 - https://npmjs.com/package/s3-ghost
 - https://npmjs.com/package/s3-key
-- https://npmjs.com/package/rfc3986
+- https://npmjs.com/package/r3986
 - https://npmjs.com/package/schar
+- https://npmjs.com/package/rrjx
+- https://npmjs.com/package/tidy-form
+- https://npmjs.com/package/jmisc
 
 ## Deprecated NPM packages
 - https://npmjs.com/package/express-transformer
