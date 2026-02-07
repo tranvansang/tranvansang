@@ -1,48 +1,49 @@
-https://transang.me
+Blog: https://transang.me
 
 ## NPM packages:
 
-- https://github.com/tranvansang/dx-server
-- https://github.com/tranvansang/jdisposer
-- https://github.com/tranvansang/j-atom
-- https://github.com/tranvansang/jrx
-- https://github.com/tranvansang/react-dom-dialog
-- https://github.com/tranvansang/express-authenticators
-- https://github.com/tranvansang/jchain
-- https://github.com/tranvansang/jcls
-- https://github.com/tranvansang/add-evt-listener
-- https://github.com/tranvansang/rrjx
-- https://github.com/tranvansang/mkenum
-- https://github.com/tranvansang/tidy-form
-- https://github.com/tranvansang/jmisc
-- https://github.com/tranvansang/misc-hooks
-- https://github.com/react-loadable/revised
-- https://github.com/tranvansang/tw-elevation
-- https://github.com/tranvansang/pantone-colors
-- https://github.com/tranvansang/jp-postal
-- https://github.com/tranvansang/zoned-date
-- https://github.com/tranvansang/middleware-async
-- https://github.com/tranvansang/s3-ghost
-- https://github.com/tranvansang/s3-key
-- https://github.com/tranvansang/rfc3986
-- https://github.com/tranvansang/schar
+- https://npmjs.com/package/dx-server
+- https://npmjs.com/package/jdisposer
+- https://npmjs.com/package/j-atom
+- https://npmjs.com/package/jrx
+- https://npmjs.com/package/react-dom-dialog
+- https://npmjs.com/package/express-authenticators
+- https://npmjs.com/package/jchain
+- https://npmjs.com/package/jcls
+- https://npmjs.com/package/add-evt-listener
+- https://npmjs.com/package/rrjx
+- https://npmjs.com/package/mkenum
+- https://npmjs.com/package/tidy-form
+- https://npmjs.com/package/jmisc
+- https://npmjs.com/package/misc-hooks
+- https://npmjs.com/package/revised
+- https://npmjs.com/package/tw-elevation
+- https://npmjs.com/package/pantone-colors
+- https://npmjs.com/package/jp-postal
+- https://npmjs.com/package/zoned-date
+- https://npmjs.com/package/middleware-async
+- https://npmjs.com/package/s3-ghost
+- https://npmjs.com/package/s3-key
+- https://npmjs.com/package/rfc3986
+- https://npmjs.com/package/schar
 
 ## Deprecated NPM packages
-- https://github.com/tranvansang/express-transformer
-- https://github.com/tranvansang/jtruthy
-- https://github.com/tranvansang/make-queue
-- https://github.com/tranvansang/img-size-loader
-- https://github.com/tranvansang/flip-promise
-- https://github.com/tranvansang/jpubsub
-- https://github.com/tranvansang/enum-for
-- https://github.com/tranvansang/clean-fetch
-- https://github.com/tranvansang/jdefer
+- https://npmjs.com/package/express-transformer
+- https://npmjs.com/package/jtruthy
+- https://npmjs.com/package/make-queue
+- https://npmjs.com/package/img-size-loader
+- https://npmjs.com/package/flip-promise
+- https://npmjs.com/package/jpubsub
+- https://npmjs.com/package/enum-for
+- https://npmjs.com/package/clean-fetch
+- https://npmjs.com/package/jdefer
 
 ## Flutter libraries
-- https://github.com/tranvansang/flutter_facebook_auth
-- https://github.com/tranvansang/flutter_google_auth
+- https://pub.dev/packages/facebook_auth
+- https://pub.dev/packages/google_auth
 
 ## Others
 - https://github.com/tranvansang/vim-close-pair
 - https://github.com/tranvansang/ssl-cpp
 - https://github.com/taxj/taxj
+
