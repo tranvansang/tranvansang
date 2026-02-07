@@ -5,6 +5,7 @@ https://transang.me
 - https://github.com/tranvansang/dx-server
 - https://github.com/tranvansang/jdisposer
 - https://github.com/tranvansang/j-atom
+- https://github.com/tranvansang/jrx
 - https://github.com/tranvansang/react-dom-dialog
 - https://github.com/tranvansang/express-authenticators
 - https://github.com/tranvansang/jchain
