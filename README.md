@@ -10,7 +10,6 @@ Blog: https://transang.me
 - https://npmjs.com/package/express-authenticators
 - https://npmjs.com/package/jchain
 - https://npmjs.com/package/jcls
-- https://npmjs.com/package/add-evt-listener
 - https://npmjs.com/package/mkenum
 - https://npmjs.com/package/misc-hooks
 - https://www.npmjs.com/package/@react-loadable/revised
@@ -37,6 +36,7 @@ Blog: https://transang.me
 - https://npmjs.com/package/enum-for
 - https://npmjs.com/package/clean-fetch
 - https://npmjs.com/package/jdefer
+- https://npmjs.com/package/add-evt-listener
 
 ## Flutter libraries
 - https://pub.dev/packages/facebook_auth
