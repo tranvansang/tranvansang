@@ -6,6 +6,7 @@ Blog: https://transang.me
 - https://npmjs.com/package/jdisposer
 - https://npmjs.com/package/j-atom
 - https://npmjs.com/package/jrx
+- https://npmjs.com/package/j-bidi
 - https://npmjs.com/package/react-dom-dialog
 - https://npmjs.com/package/express-authenticators
 - https://npmjs.com/package/jchain
