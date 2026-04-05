@@ -3,7 +3,6 @@ Blog: https://transang.me
 ## NPM packages:
 
 - https://npmjs.com/package/dx-server
-- https://npmjs.com/package/jdisposer
 - https://npmjs.com/package/j-atom
 - https://npmjs.com/package/jrx
 - https://npmjs.com/package/j-bidi
@@ -38,6 +37,7 @@ Blog: https://transang.me
 - https://npmjs.com/package/clean-fetch
 - https://npmjs.com/package/jdefer
 - https://npmjs.com/package/add-evt-listener
+- https://npmjs.com/package/jdisposer
 
 ## Flutter libraries
 - https://pub.dev/packages/facebook_auth
